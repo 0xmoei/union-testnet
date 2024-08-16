@@ -8,7 +8,7 @@ With this script, we send automated transactions in union bridge app to union ne
 * You have enough `UNO` on berachain bArtio testnet & Arbitrum Sepolia: [Bridge](https://app.union.build/transfer)
 
 
-# Create Hex
+# Step 1- Create Hex
 1- Transfer a small amount (0.000001) of `UNO` from `Arbitrum Sepolia` and `bArtio` to Union
 
 https://app.union.build/transfer
@@ -21,7 +21,7 @@ https://app.union.build/transfer
 ![Screenshot_195](https://github.com/user-attachments/assets/621bd1a1-6303-49b3-9e76-2cb8cbc8cfea)
 ![Screenshot_196](https://github.com/user-attachments/assets/41d32b9f-4768-42c7-9d59-e49a2df9d1bc)
 
-# Run script
+# Step 2- Run script
 
 ### Install git & nodejs
 ```console
@@ -81,3 +81,5 @@ screen -S union
 # Run
 node union.js
 ```
+
+Script asks you the network you want to transact on ,wallet privatekey ,and the hex you created in step 1
