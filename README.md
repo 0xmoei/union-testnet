@@ -28,7 +28,7 @@ https://app.union.build/transfer
 sudo apt update && sudo apt upgrade -y
 sudo apt install git screen
 ```
-```
+```console
 # Check Nodejs Version
 node --version
 # if 18, skip nodejs steps
