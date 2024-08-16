@@ -26,6 +26,8 @@ https://app.union.build/transfer
 ![Screenshot_195](https://github.com/user-attachments/assets/621bd1a1-6303-49b3-9e76-2cb8cbc8cfea)
 ![Screenshot_196](https://github.com/user-attachments/assets/41d32b9f-4768-42c7-9d59-e49a2df9d1bc)
 
+**Remember: You should have 2 hex strings in the final, 1 for Arbitrum + 1 for bArtio
+
 # Step 2- Run script
 
 ### Install git & nodejs
