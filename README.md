@@ -1,6 +1,11 @@
 # Summary
 With this script, we send automated transactions in union bridge app to union network
 
+#
+
+## This script is specifically designed for stress testing one of the top zk-interoperability protocols, and it serves no other function
+
+#
 
 # Make sure:
 * You have enough `ETH` on Arbitrum Sepolia: [Bridge](https://bridge.arbitrum.io/?destinationChain=arbitrum-sepolia&l2ChainId=23011913&sourceChain=sepolia)
@@ -83,3 +88,7 @@ node union.js
 ```
 
 Script asks you the network you want to transact on ,wallet privatekey ,and the hex you created in step 1
+
+#
+
+## This script is specifically designed for stress testing one of the top zk-interoperability protocols, and it serves no other function
