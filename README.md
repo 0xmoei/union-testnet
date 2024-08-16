@@ -14,7 +14,7 @@ With this script, we send automated transactions in union bridge per 30 seconds
 
 
 # Step 1- Create Hex
-1- Transfer a small amount (0.000001) of `UNO` from `Arbitrum Sepolia` and `bArtio` to Union
+1- Transfer a small amount 0.000003257 (anything but low) of `UNO` from `Arbitrum Sepolia` and `bArtio` to Union
 
 https://app.union.build/transfer
 
