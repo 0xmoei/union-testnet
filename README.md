@@ -100,4 +100,8 @@ Script asks you the network you want to transact on ,wallet privatekey ,and the 
 
 #
 
+I will add more routes and networks
+
+#
+
 ## This script is specifically designed for stress testing one of the top zk-interoperability protocols, and it serves no other purpose
