@@ -74,7 +74,12 @@ sudo apt-get install yarn -y
 
 ### Config Script
 ```console
-npm install web3 readline-sync
+npm uninstall web3
+npm install web3
+npm install web3@1.7.3
+npm list web3
+
+npm instal readline-sync
 
 git clone https://github.com/0xmoei/union-testnet
 cd union-testnet
